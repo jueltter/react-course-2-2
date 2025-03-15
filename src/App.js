@@ -3,7 +3,7 @@ import './App.css';
 import Card from './components/Card';
 
 function App() {
-  const items = [{title: 'Title 1', description: 'Description 1'}, {title: 'Title 2', description: 'Description 2'}];
+  const items = [{title: 'Title 1', description: 'Description 1'}, {title: 'Title 2', description: 'Description 2'}, {title: 'Title 3', description: 'Description 3'}];
   return (
     <div className="App">
       <header className="App-header">
